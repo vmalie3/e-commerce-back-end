@@ -12,7 +12,7 @@ In this project I used instructor provided starter code to create an e-commerce 
 
 ## Visuals
 
-None Yet
+[Use Video](https://www.awesomescreenshot.com/video/9741927?key=46d53a3ef89f6f0ea2cc60dd0c4b69ef)
 
 ## Resources
 
